@@ -87,12 +87,21 @@ open_to: [Interesting problems, collaboration, coffee chats ☕]
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=andersondemetrio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=andersondemetrio&theme=radical&hide_border=true" height="165" alt="Streak Stats"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondemetrio&layout=compact&langs_count=8&theme=radical&hide_border=true" height="150" alt="Top Languages"/>
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=andersondemetrio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=andersondemetrio&theme=radical&hide_border=true" height="165" alt="Streak Stats"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondemetrio&layout=compact&langs_count=8&theme=radical&hide_border=true&card_width=600" height="150" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
