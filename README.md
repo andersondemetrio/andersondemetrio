@@ -52,9 +52,13 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andersondemetrio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersondemetrio&theme=radical&hide_border=true" height="150" alt="Estatísticas de Streak"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondemetrio&layout=compact&langs_count=7&theme=radical&hide_border=true" height="150" alt="Top Linguagens"/>
-</div>
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersondemetrio&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andersondemetrio&theme=radical&hide_border=true" height="150" alt="Estatísticas de Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersondemetrio&layout=compact&langs_count=7&theme=radical&hide_border=true" height="150" alt="Top Linguagens" />
+</p>
